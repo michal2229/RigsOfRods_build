@@ -1,0 +1,6 @@
+[submodule "rigs-of-rods"]
+	path = rigs-of-rods
+	url = git@github.com:michal2229/rigs-of-rods.git
+[submodule "ror-dependencies"]
+	path = ror-dependencies
+	url = git@github.com:michal2229/ror-dependencies.git
