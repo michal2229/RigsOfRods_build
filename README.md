@@ -1,5 +1,5 @@
 # RigsOfRods_build
-First install some compiler (you can specify it in build_all.sh script) and CMake. Then Cg Toolkit - if your system is not compatible with the packages in data/deps_system, just take the tar and place binaries/libs/headers/etc to some general system paths for your distro - there are high chances it could work (I managed to install the RedHat rpm on OpenSuse Tumbleweed using the system installer with no problem). 
+First install some compiler (you can specify it in build_all.sh script) and CMake. Then Cg Toolkit (needed for rendering materials, the game is mostly gray without it) - if your system is not compatible with the packages in data/deps_system, just take the tar and place binaries/libs/headers/etc to some general system paths for your distro - there are high chances it could work (I managed to install the RedHat rpm on OpenSuse Tumbleweed using the system installer with no problem). 
 Then run the commands:
 ```
 git clone https://github.com/michal2229/RigsOfRods_build.git --recursive  # clone the repo
